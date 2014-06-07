@@ -1,0 +1,1 @@
+This project is being practised with the purpose of using it for selenium project.
